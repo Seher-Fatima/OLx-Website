@@ -1,0 +1,325 @@
+header{
+			background-color:#f7f8f8;
+			text-transform:uppercase;
+}
+.larger img.tiny{
+			width:50px;
+			margin-right:30px;
+}
+.one img.y{
+			width:60px;
+			margin-right:30px;
+}
+.select{
+		margin-left:30px;
+		width:410px;
+		height:40px;
+		font-size:20px;
+		cursor:col-resize;
+		border:3px solid black;
+		border-radius:10px;
+}
+.word{
+	width:300px;
+	height:40px;
+	font-size:20px;
+	margin-left:30px;	
+	cursor:move;
+	border:3px solid black;
+	border-radius:10px;
+}		
+.classic{
+	background-color:green;
+	color:white;
+	border-radius:10px;
+	height:40px;
+	width:60px;
+	border-buttom-left-radius:90px;
+	margin-right:0px;
+	border:3px solid green;
+}
+a{
+	margin-left:40px;
+	font-size:30px;
+	color:black;
+	font-size:30px;
+}
+.o{
+	margin-left:30px;
+	border-bottom:3px solid blue;
+	padding:15px;
+	border-right:3px solid skyblue;
+	border-top:3px solid blue;
+	border-left:3px solid yellow;
+	border-radius:20px;
+	background-color:white;
+}
+.d img{
+	width:20px;
+	margin-left:10px;
+	margin-top:-30px;
+	margin-buttom:30px;
+
+}
+.d {
+	font-size:30px;
+	word-spacing:10px;
+}
+.d p:hover{
+	
+	color:skyblue;
+	cursor:pointer;
+}
+.w img.r{
+
+	width:1300px;
+	margin-left:20px;
+}
+.w img.f{
+	width:900px;
+	margin-left:250px;
+	display:inline;
+}
+h1{
+	font-family:"arial";
+	margin-left:20px;
+}
+.c{
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.c img{
+	width:90px;
+}
+p{
+	font-family:"arial";
+	margin-right:30px;
+}
+.k{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+	
+}
+.k img{
+	width:90px;
+}
+.s{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.s img{
+	width:90px;
+}
+.m{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.m img{
+	width:90px;
+}
+.n{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.n img{
+	width:90px;
+}
+.x{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.x img{
+	width:90px;
+}
+.i{
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.i img{
+	width:90px;
+}
+.z{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.z img{
+	width:90px;
+
+}
+.a{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.a img{
+	width:90px;
+
+}
+.g{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.g img{
+	width:90px;
+
+}
+.c{
+
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.c img{
+	width:90px;
+
+}
+.red{
+	
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.red img{
+	width:90px;
+
+}
+.pink{
+	
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:20px;
+}
+.pink img{
+	width:90px;
+
+}
+.sad{
+	
+	margin:10px 10px;
+	display:inline-block;
+	text-align:center;
+	padding-left:10px;
+}
+.sad img{
+	width:90px;
+
+}
+.qw{
+	display:flex;
+}
+.er{
+	width:200px;
+	height:300px;
+	margin-left:20px;
+}
+img.re{
+	width:30px;
+	margin-left:30px;
+}
+p{
+	font-size:20px;
+	margin-left:40px;
+}
+b{
+	margin-left:40px;
+	font-size:20px;
+}
+img.jk{
+	width:30px;
+	margin-left:30px;
+}
+p{
+	font-size:20px;
+	margin-left:40px;
+}
+img.rg{
+	height:300px;
+	margin-left:10px;
+	width:300px;	
+}
+img.op{
+	width:30px;
+	margin-left:40px;
+}
+b{
+	margin-left:50px;
+}
+.il{
+	width:300px;
+	height:300px;
+	margin-left:10px;
+}
+.gh{
+	width:30px;
+	margin-left:30px;
+}
+.dv{
+	width:300px;
+	height:300px;
+	margin-left:10px; 
+}
+.fh{
+	width:30px;
+	margin-left:30px;	
+}	
+.wq{
+	border:1px solid grey;
+	margin-left:10px;
+}
+.gr{
+	border:1px solid grey;
+	margin-left:20px;
+
+}
+.li{
+	border:1px solid grey;
+	margin-left:20px;
+}
+.fv{
+	border:1px solid grey;
+	margin-left:20px;
+}
+.bn{
+	display:inline;
+}
+.xu{
+	font-size:40px;
+	margin-left:30px;
+	font-weight:bold;
+}
+i{
+	margin-left:900px;
+	font-size:20px;
+	color:blue;
+	font-family:"arial";
+}
+img.jh{
+	width:20px;
+	margin-left:10px;
+}
